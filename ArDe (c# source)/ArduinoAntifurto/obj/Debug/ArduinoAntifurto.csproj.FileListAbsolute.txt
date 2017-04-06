@@ -1,0 +1,9 @@
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\bin\Debug\ArduinoAntifurto.exe.config
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\bin\Debug\ArduinoAntifurto.exe
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\bin\Debug\ArduinoAntifurto.pdb
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\obj\Debug\ArduinoAntifurto.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\obj\Debug\ArduinoAntifurto.Form1.resources
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\obj\Debug\ArduinoAntifurto.Properties.Resources.resources
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\obj\Debug\ArduinoAntifurto.csproj.GenerateResource.Cache
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\obj\Debug\ArduinoAntifurto.exe
+c:\users\marco\documents\visual studio 2015\Projects\ArduinoAntifurto\ArduinoAntifurto\obj\Debug\ArduinoAntifurto.pdb
